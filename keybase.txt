@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/craigchaney
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://craigchaney.github.io
+  * I am craigchaney (https://keybase.io/craigchaney) on keybase.
+  * I have a public key ASA1vlkAEhoZXTlGkafqONc_c9v5kkMonUzywnL1xi7tqQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012035be5900121a195d394691a7ea38d73f73dbf99243289d4cf2c272f5c62eeda90a",
+      "host": "keybase.io",
+      "kid": "012035be5900121a195d394691a7ea38d73f73dbf99243289d4cf2c272f5c62eeda90a",
+      "uid": "4bd076bc80014cdd57dacefcce894719",
+      "username": "craigchaney"
+    },
+    "merkle_root": {
+      "ctime": 1608147854,
+      "hash": "386b227db21cfe47c5869569a60a2caaa8a73570bbd7778374699793579aa63f2aea76d4f175006150b39bd37599ef01b2914f43d0b4f8902fe5e9df20c4a2cd",
+      "hash_meta": "d98e5ae4125fda5c70114de9c1b096dff6b22cf4e8cb2ac901bf15e957e98b8b",
+      "seqno": 18420908
+    },
+    "service": {
+      "entropy": "I7Z8EvhxRMWtf3Y/uC9K9Mb7",
+      "hostname": "craigchaney.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1608147891,
+  "expire_in": 504576000,
+  "prev": "b8abc78d3b7dc794ccac1ee2c21c57eab11c7678d66928ad85b96735458b8d2f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNb5ZABIaGV05RpGn6jjXP3Pb+ZJDKJ1M8sJy9cYu7akKp3BheWxvYWTESpcCBsQguKvHjTt9x5TMrB7iwhxX6rEcdnjWaSithblnNUWLjS/EICiwn715pon7DEirbTu6DaqOLTYr8uq9/L42tMh5NSq8AgHCo3NpZ8RAqjnOflDPiCKDgp9bN3CzrNYC6t8vljOyBouONJjvkG+aoV1nUyyXnXjmg2y2yG8FeZYay9WJEyaaLj1241LxCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMNhV2XFoxz7JupMeABAchrZSleEd/4LpKZkqr7BX7Q0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/craigchaney
+
+==================================================================
